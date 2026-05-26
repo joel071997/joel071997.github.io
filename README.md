@@ -1,11 +1,12 @@
-# 💫 About Me:
-Full-stack software engineer with 3 years of production experience at Ingram Micro (Fortune 500 supply chain), and an MSc in Data Science from Technological University Dublin (2024). I work across two lanes: enterprise full-stack development (.NET Core, Angular, SQL) and applied AI/ML (Python, NLP, RAG). Co-authored EDULEARN24 publication on a cloud NLP service for dyslexia-friendly document accessibility.
+Software engineer with 3 years of production experience at Ingram Micro (Fortune 500 supply chain), now focused on AI/ML and data platform engineering. MSc Data Science from Technological University Dublin (2024). Co-authored EDULEARN24 publication on a cloud NLP service for dyslexia-friendly document accessibility.
 
-**Full-stack background:** 15+ REST/SOAP API integrations across IBM, Amazon, FedEx, UnitedHealth; 50K+ monthly shipments tracked via .NET Core + SQL; zero-downtime CI/CD releases across Dev/QA/UAT/Staging environments.
+Background: 15+ REST/SOAP API integrations across IBM, Amazon, FedEx, UnitedHealth; 50K+ monthly shipments tracked via .NET Core + SQL; zero-downtime CI/CD releases across Dev/QA/UAT/Staging.
 
-**AI/ML focus:** production ML lifecycle, NLP, retrieval-augmented generation (RAG), LangChain, embeddings, and vector databases. Building portfolio projects that bridge enterprise software engineering with applied GenAI.
+Current focus: production ML lifecycle, NLP, retrieval-augmented generation (RAG), LangChain, embeddings, and vector databases. Building portfolio projects bridging enterprise software engineering with applied GenAI.
 
-Based in Dublin. Open to full-stack, backend, ML, and AI/data platform roles.
+Stack: Python, C#, SQL, TypeScript · TensorFlow, PyTorch, scikit-learn · ASP.NET Core, REST APIs · MS SQL Server, MongoDB, Oracle · Azure DevOps, Jenkins, Git · LangChain, FAISS, sentence-transformers.
+
+Based in Dublin. Open to ML / AI / data platform / backend roles.
 
 # 💻 Tech Stack:
 
